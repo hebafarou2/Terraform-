@@ -13,7 +13,7 @@ This Terraform project automates the deployment of AWS infrastructure components
  - AWS access credentials configured either through environment variables or AWS CLI.
 ## Usage
 1. Clone this repository to your local machine:
-- git clone https://github.com/hebafarou2/Terraform-
+- git clone https://github.com/hebafarou2/Terraform-.git
 2. Navigate to the project directory
 3. Initialize Terraform:
 - terraform init
